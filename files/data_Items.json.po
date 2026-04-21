@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Items.json\n"
+"POT-Creation-Date: 2026-04-21 23:53+0000\n"
+"PO-Revision-Date: 2026-04-21 23:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# {"path":"data/Items.json","row":"0","tags":null}
+#. Items/1/name
+msgctxt "tpp:data/Items.json:0"
+msgid "-----Reserved"
+msgstr ""
+
+# {"path":"data/Items.json","row":"1","tags":null}
+#. Items/1/description
+msgctxt "tpp:data/Items.json:1"
+msgid ""
+"Below are spaces for when you would like to display\n"
+"items above the recovery items."
+msgstr ""
+
+# {"path":"data/Items.json","row":"2","tags":null}
+#. Items/6/name
+msgctxt "tpp:data/Items.json:2"
+msgid "-----Recovery Items"
+msgstr ""
+
+# {"path":"data/Items.json","row":"3","tags":null}
+#. Items/7/name
+msgctxt "tpp:data/Items.json:3"
+msgid "Potion"
+msgstr ""
+
+# {"path":"data/Items.json","row":"4","tags":null}
+#. Items/7/description
+msgctxt "tpp:data/Items.json:4"
+msgid "Restores HP by 500 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"5","tags":null}
+#. Items/8/name
+msgctxt "tpp:data/Items.json:5"
+msgid "Super Potion"
+msgstr ""
+
+# {"path":"data/Items.json","row":"6","tags":null}
+#. Items/8/description
+msgctxt "tpp:data/Items.json:6"
+msgid "Restores HP by 1500 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"7","tags":null}
+#. Items/9/name
+msgctxt "tpp:data/Items.json:7"
+msgid "Full Potion"
+msgstr ""
+
+# {"path":"data/Items.json","row":"8","tags":null}
+#. Items/9/description
+msgctxt "tpp:data/Items.json:8"
+msgid "Completely restores HP."
+msgstr ""
+
+# {"path":"data/Items.json","row":"9","tags":null}
+#. Items/10/name
+msgctxt "tpp:data/Items.json:9"
+msgid "Magic Water"
+msgstr ""
+
+# {"path":"data/Items.json","row":"10","tags":null}
+#. Items/10/description
+msgctxt "tpp:data/Items.json:10"
+msgid "Restores MP by 300 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"11","tags":null}
+#. Items/11/name
+msgctxt "tpp:data/Items.json:11"
+msgid "Stimulant"
+msgstr ""
+
+# {"path":"data/Items.json","row":"12","tags":null}
+#. Items/11/description
+msgctxt "tpp:data/Items.json:12"
+msgid "Raises the subject from the dead. (Restores HP by half.)"
+msgstr ""
+
+# {"path":"data/Items.json","row":"13","tags":null}
+#. Items/12/name
+msgctxt "tpp:data/Items.json:13"
+msgid "Dispel Herb"
+msgstr ""
+
+# {"path":"data/Items.json","row":"14","tags":null}
+#. Items/12/description
+msgctxt "tpp:data/Items.json:14"
+msgid ""
+"Removes all status ailments.\n"
+"Cannot revive a someone from being dead."
+msgstr ""
+
+# {"path":"data/Items.json","row":"15","tags":null}
+#. Items/13/name
+msgctxt "tpp:data/Items.json:15"
+msgid "Antidote"
+msgstr ""
+
+# {"path":"data/Items.json","row":"16","tags":null}
+#. Items/13/description
+msgctxt "tpp:data/Items.json:16"
+msgid "Cures Poison or Paralysis states."
+msgstr ""
+
+# {"path":"data/Items.json","row":"17","tags":null}
+#. Items/14/name
+msgctxt "tpp:data/Items.json:17"
+msgid "Miracle Drop"
+msgstr ""
+
+# {"path":"data/Items.json","row":"18","tags":null}
+#. Items/14/description
+msgctxt "tpp:data/Items.json:18"
+msgid "Restores HP and MP by half."
+msgstr ""
+
+# {"path":"data/Items.json","row":"19","tags":null}
+#. Items/15/name
+msgctxt "tpp:data/Items.json:19"
+msgid "Elixir"
+msgstr ""
+
+# {"path":"data/Items.json","row":"20","tags":null}
+#. Items/15/description
+msgctxt "tpp:data/Items.json:20"
+msgid "Completely restores HP and MP."
+msgstr ""
+
+# {"path":"data/Items.json","row":"21","tags":null}
+#. Items/17/name
+msgctxt "tpp:data/Items.json:21"
+msgid "-----Specialty Items"
+msgstr ""
+
+# {"path":"data/Items.json","row":"22","tags":null}
+#. Items/18/name
+msgctxt "tpp:data/Items.json:22"
+msgid "Encounter Decreaser"
+msgstr ""
+
+# {"path":"data/Items.json","row":"23","tags":null}
+#. Items/18/description
+msgctxt "tpp:data/Items.json:23"
+msgid ""
+"Halves the number of enemies you will encounter\n"
+"for a while."
+msgstr ""
+
+# {"path":"data/Items.json","row":"24","tags":null}
+#. Items/19/name
+msgctxt "tpp:data/Items.json:24"
+msgid "Drop Increaser"
+msgstr ""
+
+# {"path":"data/Items.json","row":"25","tags":null}
+#. Items/19/description
+msgctxt "tpp:data/Items.json:25"
+msgid ""
+"Increases items and money gained from battle for\n"
+"a while."
+msgstr ""
+
+# {"path":"data/Items.json","row":"26","tags":null}
+#. Items/22/name
+msgctxt "tpp:data/Items.json:26"
+msgid "-----Enhancement Items"
+msgstr ""
+
+# {"path":"data/Items.json","row":"27","tags":null}
+#. Items/23/name
+msgctxt "tpp:data/Items.json:27"
+msgid "HP Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"28","tags":null}
+#. Items/23/description
+msgctxt "tpp:data/Items.json:28"
+msgid "Increases max HP by 50 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"29","tags":null}
+#. Items/24/name
+msgctxt "tpp:data/Items.json:29"
+msgid "MP Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"30","tags":null}
+#. Items/24/description
+msgctxt "tpp:data/Items.json:30"
+msgid "Increases max MP by 10 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"31","tags":null}
+#. Items/25/name
+msgctxt "tpp:data/Items.json:31"
+msgid "Attack Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"32","tags":null}
+#. Items/25/description
+msgctxt "tpp:data/Items.json:32"
+msgid "Increases Attack by 3 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"33","tags":null}
+#. Items/26/name
+msgctxt "tpp:data/Items.json:33"
+msgid "Defense Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"34","tags":null}
+#. Items/26/description
+msgctxt "tpp:data/Items.json:34"
+msgid "Increases Defense by 3 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"35","tags":null}
+#. Items/27/name
+msgctxt "tpp:data/Items.json:35"
+msgid "Magic Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"36","tags":null}
+#. Items/27/description
+msgctxt "tpp:data/Items.json:36"
+msgid "Increases M.Attack by 3 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"37","tags":null}
+#. Items/28/name
+msgctxt "tpp:data/Items.json:37"
+msgid "Resistance Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"38","tags":null}
+#. Items/28/description
+msgctxt "tpp:data/Items.json:38"
+msgid "Increases M.Defense by 3 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"39","tags":null}
+#. Items/29/name
+msgctxt "tpp:data/Items.json:39"
+msgid "Agility Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"40","tags":null}
+#. Items/29/description
+msgctxt "tpp:data/Items.json:40"
+msgid "Increases Agility by 3 points."
+msgstr ""
+
+# {"path":"data/Items.json","row":"41","tags":null}
+#. Items/30/name
+msgctxt "tpp:data/Items.json:41"
+msgid "Luck Increase"
+msgstr ""
+
+# {"path":"data/Items.json","row":"42","tags":null}
+#. Items/30/description
+msgctxt "tpp:data/Items.json:42"
+msgid "Increases Luck by 3 points."
+msgstr ""

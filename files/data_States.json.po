@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: States.json\n"
+"POT-Creation-Date: 2026-04-21 23:53+0000\n"
+"PO-Revision-Date: 2026-04-21 23:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# {"path":"data/States.json","row":"0","tags":null}
+#. States/1/name
+msgctxt "tpp:data/States.json:0"
+msgid "Dead"
+msgstr ""
+
+# {"path":"data/States.json","row":"1","tags":null}
+#. States/1/message1
+msgctxt "tpp:data/States.json:1"
+msgid "%1 has fallen!"
+msgstr ""
+
+# {"path":"data/States.json","row":"2","tags":null}
+#. States/1/message2
+msgctxt "tpp:data/States.json:2"
+msgid "%1 is slain!"
+msgstr ""
+
+# {"path":"data/States.json","row":"3","tags":null}
+#. States/1/message4
+msgctxt "tpp:data/States.json:3"
+msgid "%1 revives!"
+msgstr ""
+
+# {"path":"data/States.json","row":"4","tags":null}
+#. States/1/note
+msgctxt "tpp:data/States.json:4"
+msgid "State #1 will be added when HP hits 0."
+msgstr ""
+
+# {"path":"data/States.json","row":"5","tags":null}
+#. States/2/name
+msgctxt "tpp:data/States.json:5"
+msgid "Guard"
+msgstr ""
+
+# {"path":"data/States.json","row":"6","tags":null}
+#. States/3/name
+msgctxt "tpp:data/States.json:6"
+msgid "Immortal"
+msgstr ""
+
+# {"path":"data/States.json","row":"7","tags":null}
+#. States/4/name
+msgctxt "tpp:data/States.json:7"
+msgid "Poison"
+msgstr ""
+
+# {"path":"data/States.json","row":"8","tags":null}
+#. States/4/message1
+#. States/4/message2
+msgctxt "tpp:data/States.json:8"
+msgid "%1 is poisoned!"
+msgstr ""
+
+# {"path":"data/States.json","row":"9","tags":null}
+#. States/4/message4
+msgctxt "tpp:data/States.json:9"
+msgid "%1 is no longer poisoned!"
+msgstr ""
+
+# {"path":"data/States.json","row":"10","tags":null}
+#. States/5/name
+msgctxt "tpp:data/States.json:10"
+msgid "Blind"
+msgstr ""
+
+# {"path":"data/States.json","row":"11","tags":null}
+#. States/5/message1
+#. States/5/message2
+msgctxt "tpp:data/States.json:11"
+msgid "%1 is blinded!"
+msgstr ""
+
+# {"path":"data/States.json","row":"12","tags":null}
+#. States/5/message4
+msgctxt "tpp:data/States.json:12"
+msgid "%1 is no longer blinded!"
+msgstr ""
+
+# {"path":"data/States.json","row":"13","tags":null}
+#. States/6/name
+msgctxt "tpp:data/States.json:13"
+msgid "Silence"
+msgstr ""
+
+# {"path":"data/States.json","row":"14","tags":null}
+#. States/6/message1
+#. States/6/message2
+msgctxt "tpp:data/States.json:14"
+msgid "%1 is silenced!"
+msgstr ""
+
+# {"path":"data/States.json","row":"15","tags":null}
+#. States/6/message4
+msgctxt "tpp:data/States.json:15"
+msgid "%1 is no longer silenced!"
+msgstr ""
+
+# {"path":"data/States.json","row":"16","tags":null}
+#. States/7/name
+msgctxt "tpp:data/States.json:16"
+msgid "Rage"
+msgstr ""
+
+# {"path":"data/States.json","row":"17","tags":null}
+#. States/7/message1
+#. States/7/message2
+msgctxt "tpp:data/States.json:17"
+msgid "%1 is enraged!"
+msgstr ""
+
+# {"path":"data/States.json","row":"18","tags":null}
+#. States/7/message4
+msgctxt "tpp:data/States.json:18"
+msgid "%1 is no longer enraged!"
+msgstr ""
+
+# {"path":"data/States.json","row":"19","tags":null}
+#. States/8/name
+msgctxt "tpp:data/States.json:19"
+msgid "Confusion"
+msgstr ""
+
+# {"path":"data/States.json","row":"20","tags":null}
+#. States/8/message1
+#. States/8/message2
+msgctxt "tpp:data/States.json:20"
+msgid "%1 is confused!"
+msgstr ""
+
+# {"path":"data/States.json","row":"21","tags":null}
+#. States/8/message4
+msgctxt "tpp:data/States.json:21"
+msgid "%1 is no longer confused!"
+msgstr ""
+
+# {"path":"data/States.json","row":"22","tags":null}
+#. States/9/name
+msgctxt "tpp:data/States.json:22"
+msgid "Charm"
+msgstr ""
+
+# {"path":"data/States.json","row":"23","tags":null}
+#. States/9/message1
+#. States/9/message2
+msgctxt "tpp:data/States.json:23"
+msgid "%1 is charmed!"
+msgstr ""
+
+# {"path":"data/States.json","row":"24","tags":null}
+#. States/9/message4
+msgctxt "tpp:data/States.json:24"
+msgid "%1 is no longer charmed!"
+msgstr ""
+
+# {"path":"data/States.json","row":"25","tags":null}
+#. States/10/name
+msgctxt "tpp:data/States.json:25"
+msgid "Sleep"
+msgstr ""
+
+# {"path":"data/States.json","row":"26","tags":null}
+#. States/10/message1
+#. States/10/message2
+msgctxt "tpp:data/States.json:26"
+msgid "%1 falls asleep!"
+msgstr ""
+
+# {"path":"data/States.json","row":"27","tags":null}
+#. States/10/message3
+msgctxt "tpp:data/States.json:27"
+msgid "%1 is sleeping."
+msgstr ""
+
+# {"path":"data/States.json","row":"28","tags":null}
+#. States/10/message4
+msgctxt "tpp:data/States.json:28"
+msgid "%1 wakes up!"
+msgstr ""
+
+# {"path":"data/States.json","row":"29","tags":null}
+#. States/12/name
+msgctxt "tpp:data/States.json:29"
+msgid "Paralysis"
+msgstr ""
+
+# {"path":"data/States.json","row":"30","tags":null}
+#. States/12/message1
+#. States/12/message3
+msgctxt "tpp:data/States.json:30"
+msgid "%1 is paralyzed and can’t move!"
+msgstr ""
+
+# {"path":"data/States.json","row":"31","tags":null}
+#. States/12/message2
+msgctxt "tpp:data/States.json:31"
+msgid "%1 is paralyzed!"
+msgstr ""
+
+# {"path":"data/States.json","row":"32","tags":null}
+#. States/12/message4
+msgctxt "tpp:data/States.json:32"
+msgid "%1 is no longer paralyzed!"
+msgstr ""
+
+# {"path":"data/States.json","row":"33","tags":null}
+#. States/13/name
+msgctxt "tpp:data/States.json:33"
+msgid "Stun"
+msgstr ""
+
+# {"path":"data/States.json","row":"34","tags":null}
+#. States/13/message1
+#. States/13/message2
+msgctxt "tpp:data/States.json:34"
+msgid "%1 lost balance!"
+msgstr ""
+
+# {"path":"data/States.json","row":"35","tags":null}
+#. States/13/message3
+msgctxt "tpp:data/States.json:35"
+msgid "%1 is still off-balance..."
+msgstr ""
+
+# {"path":"data/States.json","row":"36","tags":null}
+#. States/13/message4
+msgctxt "tpp:data/States.json:36"
+msgid "%1 has regained balance!"
+msgstr ""
+
+# {"path":"data/States.json","row":"37","tags":null}
+#. States/15/name
+msgctxt "tpp:data/States.json:37"
+msgid "HP Regeneration"
+msgstr ""
+
+# {"path":"data/States.json","row":"38","tags":null}
+#. States/16/name
+msgctxt "tpp:data/States.json:38"
+msgid "MP Regeneration"
+msgstr ""
+
+# {"path":"data/States.json","row":"39","tags":null}
+#. States/17/name
+msgctxt "tpp:data/States.json:39"
+msgid "TP Regeneration"
+msgstr ""
+
+# {"path":"data/States.json","row":"40","tags":null}
+#. States/18/name
+msgctxt "tpp:data/States.json:40"
+msgid "Magic Reflection"
+msgstr ""
+
+# {"path":"data/States.json","row":"41","tags":null}
+#. States/19/name
+msgctxt "tpp:data/States.json:41"
+msgid "Protect"
+msgstr ""
+
+# {"path":"data/States.json","row":"42","tags":null}
+#. States/20/name
+msgctxt "tpp:data/States.json:42"
+msgid "Provoke"
+msgstr ""
+
+# {"path":"data/States.json","row":"43","tags":null}
+#. States/20/message1
+msgctxt "tpp:data/States.json:43"
+msgid "%1 became easier to hit!"
+msgstr ""
+
+# {"path":"data/States.json","row":"44","tags":null}
+#. States/21/name
+msgctxt "tpp:data/States.json:44"
+msgid "Hide"
+msgstr ""
+
+# {"path":"data/States.json","row":"45","tags":null}
+#. States/21/message1
+msgctxt "tpp:data/States.json:45"
+msgid "%1 became harder to hit!"
+msgstr ""
+
+# {"path":"data/States.json","row":"46","tags":null}
+#. States/22/name
+msgctxt "tpp:data/States.json:46"
+msgid "Counter Attack"
+msgstr ""
+
+# {"path":"data/States.json","row":"47","tags":null}
+#. States/23/name
+msgctxt "tpp:data/States.json:47"
+msgid "Status Ailment Block"
+msgstr ""
+
+# {"path":"data/States.json","row":"48","tags":null}
+#. States/24/name
+msgctxt "tpp:data/States.json:48"
+msgid "Reduce MP Cost"
+msgstr ""
+
+# {"path":"data/States.json","row":"49","tags":null}
+#. States/25/name
+msgctxt "tpp:data/States.json:49"
+msgid "Fire Force"
+msgstr ""
+
+# {"path":"data/States.json","row":"50","tags":null}
+#. States/25/message1
+#. States/25/message2
+msgctxt "tpp:data/States.json:50"
+msgid "%1 is now enveloped in an aura of fire."
+msgstr ""
+
+# {"path":"data/States.json","row":"51","tags":null}
+#. States/26/name
+msgctxt "tpp:data/States.json:51"
+msgid "Ice Force"
+msgstr ""
+
+# {"path":"data/States.json","row":"52","tags":null}
+#. States/26/message1
+#. States/26/message2
+msgctxt "tpp:data/States.json:52"
+msgid "%1 is now enveloped in an icy aura."
+msgstr ""
+
+# {"path":"data/States.json","row":"53","tags":null}
+#. States/27/name
+msgctxt "tpp:data/States.json:53"
+msgid "Thunder Force"
+msgstr ""
+
+# {"path":"data/States.json","row":"54","tags":null}
+#. States/27/message1
+#. States/27/message2
+msgctxt "tpp:data/States.json:54"
+msgid "%1 is now enveloped in a thunderous aura."
+msgstr ""
+
+# {"path":"data/States.json","row":"55","tags":null}
+#. States/29/name
+msgctxt "tpp:data/States.json:55"
+msgid "Half Encounters"
+msgstr ""
+
+# {"path":"data/States.json","row":"56","tags":null}
+#. States/30/name
+msgctxt "tpp:data/States.json:56"
+msgid "Double Money/Items"
+msgstr ""
