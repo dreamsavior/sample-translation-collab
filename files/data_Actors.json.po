@@ -35,7 +35,7 @@ msgstr ""
 #. Actors/5/name
 msgctxt "tpp:data/Actors.json:4"
 msgid "Albert"
-msgstr ""
+msgstr "Foo"
 
 # {"path":"data/Actors.json","row":"5","tags":null}
 #. Actors/6/name
