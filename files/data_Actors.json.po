@@ -23,7 +23,7 @@ msgstr "Translation 3"
 #. Actors/3/name
 msgctxt "tpp:data/Actors.json:2"
 msgid "Gale"
-msgstr "test4"
+msgstr "test5"
 
 # {"path":"data/Actors.json","row":"3","tags":null}
 #. Actors/4/name
